@@ -1,0 +1,6 @@
+source;share/catinator/hook/pythonpath.ps1
+source;share/catinator/hook/pythonpath.dsv
+source;share/catinator/hook/pythonpath.sh
+source;share/catinator/hook/ament_prefix_path.ps1
+source;share/catinator/hook/ament_prefix_path.dsv
+source;share/catinator/hook/ament_prefix_path.sh
